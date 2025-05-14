@@ -33,6 +33,9 @@ coverage
 *.sln
 *.sw?
 
+# Cursor editor files
+.cursor/
+
 # Environment variables
 .env
 .env.local
